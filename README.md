@@ -1,3 +1,5 @@
+![Computer Hardware Wallpaper](images/computer-hardware-wallpaper.jpg)
+
 <h1>Hardware Products Analysis</h1>
 
 <h2>Table of contents</h2>
