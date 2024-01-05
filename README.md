@@ -33,7 +33,9 @@ There is a need for a robust revenue analysis system that can integrate data fro
 ## Tech stack
 
 - Microsoft Power BI & DAX
-- Python (fetching exchange rates from API)
+- Python 
+  - fetching exchange rates from API
+  - refer to *requirements.txt* for the packages used in this project
 
 
 ## Agenda
