@@ -1,20 +1,18 @@
-# Hardware Products Analysis
+<h1>Hardware Products Analysis</h1>
 
-## Table of contents
+<h2>Table of contents</h2>
 
-- [Hardware Products Analysis](#hardware-products-analysis)
-  - [Table of contents](#table-of-contents)
-  - [Source](#source)
-  - [Explore](#explore)
-  - [Business problem](#business-problem)
-  - [Tech stack](#tech-stack)
-  - [Agenda](#agenda)
-    - [Revenue by Country](#revenue-by-country)
-    - [Rolling Revenue](#rolling-revenue)
-    - [Revenue by Product](#revenue-by-product)
-    - [Region \& Channel](#region--channel)
-    - [Exchange Rate Volatility](#exchange-rate-volatility)
-  - [Page Navigation](#page-navigation)
+- [Source](#source)
+- [Explore](#explore)
+- [Business problem](#business-problem)
+- [Tech stack](#tech-stack)
+- [Agenda](#agenda)
+  - [Revenue by Country](#revenue-by-country)
+  - [Rolling Revenue](#rolling-revenue)
+  - [Revenue by Product](#revenue-by-product)
+  - [Region \& Channel](#region--channel)
+  - [Exchange Rate Volatility](#exchange-rate-volatility)
+- [Page Navigation](#page-navigation)
 
 ## Source
 
